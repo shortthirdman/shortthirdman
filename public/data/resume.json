@@ -1,0 +1,347 @@
+{
+	"meta": {
+		"theme": "Stackoverflow",
+		"data": "https://api.npoint.io/3429070c55d6494adec5"
+	},
+	"basics": {
+		"name": "Swetank Mohanty",
+		"label": "Full Stack Software Developer",
+		"picture": "https://avatars2.githubusercontent.com/u/5894985?v=4",
+		"email": "swetank.mohanty@outlook.com",
+		"phone": {
+			"countryCode": "+91",
+			"primary": "9007636266",
+			"secondary": "7003668435",
+		},
+		"website": "https://www.shortthirdman.com/",
+		"yearsOfExperience": 4,
+		"birthDate": "1994-04-03",
+		"birthPlace": "Bhubaneswar, OD, IN",
+		"gender": "Male",
+		"nationality": "Indian",
+		"summary": "Web developer, Full-stack software engineer and a cricket-fanatic",
+		"location": {
+			"address": "4, Charu Chandra Place East, Charu Chandra Ave, Tollygunge",
+			"postalCode": "700033",
+			"city": "Kolkata",
+			"countryCode": "IN",
+			"region": "West Bengal"
+		},
+		"profiles": [{
+			"network": "GitHub",
+			"username": "shortthirdman",
+			"url": "https://www.github.com/shortthirdman"
+		}, {
+			"network": "LinkedIn",
+			"url": "https://www.linkedin.com/in/shortthirdman",
+			"username": "shortthirdman"
+		}, {
+			"network": "Twitter",
+			"url": "https://www.twitter.com/ShortThirdMan",
+			"username": "ShortThirdMan"
+		}, {
+			"network": "Facebook",
+			"url": "https://www.facebook.com/ShortThirdManOfficial",
+			"username": "ShortThirdManOfficial"
+		}, {
+			"network": "Instagram",
+			"url": "https://www.instagram.com/shortthirdman",
+			"username": "shortthirdman"
+		}]
+	},
+	"work": [{
+		"company": "Advanced Technology Consulting Services Inc Ltd",
+		"position": "Software Engineer",
+		"website": "https://www.atcs.com",
+		"location": "Jaipur, RJ, IN",
+		"isCurrentRole": false,
+		"startDate": "2016-07-25",
+		"endDate": "2020-08-23",
+		"start": {
+			"year": 2016,
+			"month": 7
+		},
+		"end": {
+			"year": 2020,
+			"month": 5
+		},
+		"summary": "Full-Stack Web Developer",
+		"highlights": [
+			"Joined as a rookie",
+			"Front-end Angular Developer",
+			"Backend Java Developer",
+			"Individual contributor"
+		]
+	}, {
+		"company": "DGI Dynamics Finer Infosolution Pvt Ltd",
+		"position": "Associate Technical Consultant",
+		"website": "https://dynamicsinfosolution.com/",
+		"location": "Kolkata, WB, IN",
+		"isCurrentRole": false,
+		"startDate": "2016-06-06",
+		"endDate": "2016-07-08",
+		"start": {
+			"year": 2016,
+			"month": 6
+		},
+		"end": {
+			"year": 2016,
+			"month": 7
+		},
+		"summary": "Microsoft Dynamics NAV ERP Developer",
+		"highlights": [
+			"First experience at an organization"
+		]
+	}, {
+		"company": "Centre for Development of Advanced Computing, India",
+		"position": "Software Developer Trainee",
+		"website": "https://www.cdac.in",
+		"location": "Kolkata, WB, IN",
+		"isCurrentRole": false,
+		"startDate": "2016-01-01",
+		"endDate": "2016-05-14",
+		"start": {
+			"year": 2016,
+			"month": 1
+		},
+		"end": {
+			"year": 2016,
+			"month": 5
+		},
+		"summary": "Graduate Engineer Trainee",
+		"highlights": [
+			"Project Intern"
+		]
+	}],
+	"volunteer": [],
+	"education": [{
+		"institution": "Sikkim Manipal Institute of Technology",
+		"area": "Computer Science",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2012-07-01",
+		"endDate": "2016-05-01",
+		"start": {
+			"year": 2012,
+			"month": 7
+		},
+		"end": {
+			"year": 2016,
+			"month": 5
+		},
+		"description": "",
+		"activities": null,
+		"gpa": "6.38",
+		"courses": []
+	}, {
+		"institution": "Army Public School, Kolkata",
+		"area": "Senior Higher Secondary",
+		"location": "Kolkata, WB, IN",
+		"studyType": "All India Senior School Certificate Examination (AISSCE)",
+		"startDate": "2010-04-01",
+		"endDate": "2011-05-01",
+		"start": {
+			"year": 2010,
+			"month": 4
+		},
+		"end": {
+			"year": 2011,
+			"month": 5
+		},
+		"description": "HSC/Intermediate",
+		"activities": "",
+		"gpa": "8.4",
+		"courses": [ "English","Mathematics","Physics","Chemistry","Computer Science","Physical Education" ]
+	}, {
+		"institution": "Army Public School, Kolkata",
+		"area": "Higher Secondary",
+		"location": "Kolkata, WB, IN",
+		"studyType": "All India Secondary School Examination (AISSE)",
+		"startDate": "2008-04-04",
+		"endDate": "2009-05-15",
+		"start": {
+			"year": 2008,
+			"month": 4
+		},
+		"end": {
+			"year": 2009,
+			"month": 5
+		},
+		"description": "SSC",
+		"activities": "",
+		"gpa": "8.6",
+		"courses": [ "English","Mathematics","Science","Computer Science","Hindi" ]
+	}, {
+		"institution": "Chinmaya Vidyalaya",
+		"area": "Primary",
+		"location": "Bokaro, JH, IN",
+		"studyType": "Primary Education",
+		"startDate": "2005-05-04",
+		"endDate": "2007-03-15",
+		"start": {
+			"year": 2005,
+			"month": 5
+		},
+		"end": {
+			"year": 2007,
+			"month": 3
+		},
+		"description": "Primary",
+		"activities": "",
+		"gpa": "7.3",
+		"courses": [ "English","Mathematics","Science","Computer Science","Hindi","Sanskrit","Physical Education" ]
+	}, {
+		"institution": "The Assembly of God Church School",
+		"area": "Primary",
+		"location": "Purulia, WB, IN",
+		"studyType": "Primary Education",
+		"startDate": "2003-06-04",
+		"endDate": "2005-03-01",
+		"start": {
+			"year": 2003,
+			"month": 6
+		},
+		"end": {
+			"year": 2005,
+			"month": 3
+		},
+		"description": "Primary",
+		"activities": null,
+		"gpa": "7.1",
+		"courses": [ "English","Mathematics","Science","Computer Science","Hindi","Bengali","Physical Education" ]
+	}, {
+		"institution": "D.A.V. Public School, Chandrasekharpur, Bhubaneswar",
+		"area": "Primary",
+		"location": "Bhubaneswar, OD, IN",
+		"studyType": "Primary Education",
+		"startDate": "1999-05-03",
+		"endDate": "2004-03-01",
+		"start": {
+			"year": 1999,
+			"month": 5
+		},
+		"end": {
+			"year": 2004,
+			"month": 3
+		},
+		"description": "Primary",
+		"activities": null,
+		"gpa": "7.0",
+		"courses": [ "English","Mathematics","General Science","Social Science","Hindi" ]
+	}],
+	"awards": [],
+	"publications": [],
+	"skills": [{
+		"name": "Java",
+		"level": "Advanced",
+		"rating": 4,
+		"yearsOfExperience": 2,
+		"keywords": ["Spring Boot 2", "J2EE", "RESTful Web API Services", "Spring Framework", "JDBC", "Hibernate"]
+	}, {
+		"name": "JavaScript",
+		"level": "Advanced",
+		"rating": 4,
+		"yearsOfExperience": 3,
+		"keywords": ["TypeScript", "ES6", ""]
+	}, {
+		"name": "Angular",
+		"level": "Advanced",
+		"rating": 4,
+		"yearsOfExperience": 3,
+		"keywords": []
+	}, {
+		"name": "Ember.js",
+		"level": "Intermediate",
+		"rating": 3,
+		"yearsOfExperience": 1,
+		"keywords": ["EmberJS"]
+	}, {
+		"name": "Bootstrap",
+		"level": "Advanced",
+		"rating": 3,
+		"yearsOfExperience": 2,
+		"keywords": []
+	}, {
+		"name": "Python",
+		"level": "Beginner",
+		"rating": 2,
+		"yearsOfExperience": 1,
+		"keywords": []
+	}, {
+		"name": "React",
+		"level": "Beginner",
+		"rating": 2,
+		"yearsOfExperience": 0,
+		"keywords": ["React Native"]
+	}, {
+		"name": "Web Development",
+    	"level": "Master",
+		"rating": 4,
+		"yearsOfExperience": 3,
+    	"keywords": ["HTML5","CSS3", "JavaScript", "SCSS", "Bootstrap 4"]
+	},{
+		"name": "Docker",
+		"level": "Beginner",
+		"rating": 3,
+		"yearsOfExperience": 0,
+		"keywords": ["Kubernetes", "Containers"]
+	},{
+		"name": "DevOps",
+		"level": "Intermediate",
+		"rating": 3,
+		"yearsOfExperience": 0,
+		"keywords": ["GCloud", "Heroku", "AWS", "Azure"]
+	}],
+	"projects": [],
+	"languages": [{
+		"language": "English",
+		"fluency": "Bilingual",
+		"level": 4,
+	}, {
+		"language": "Hindi",
+		"fluency": "Bilingual",
+		"level": 4,
+	}, {
+		"language": "Odia",
+		"fluency": "Native speaker",
+		"level": 5,
+	}, {
+		"language": "Bengali",
+		"fluency": "Bilingual",
+		"level": 3,
+	}],
+	"interests": [{
+		"name": "Cricket",
+		"keywords": ["International Cricket","Indian Premier League","Twenty20","Test Cricket","One Day Cricket","Professional Cricket"]
+	}, {
+		"name": "Music",
+		"keywords": []
+    }, {
+		"name": "Open Source",
+		"keywords": []
+	}, {
+		"name": "Movies",
+		"keywords": ["Bollywood", "Hollywood", "Sci-Fi", "Comedy", "Romantic comedy"]
+	}],
+	"references": [],
+	"legends": {
+		"languageProficiencyLevels": [{
+			"level": 0,
+			"description": "No Proficiency"
+		}, {
+			"level": 1,
+			"description": "Elementary Proficiency"
+		}, {
+			"level": 2,
+			"description": "Limited Working Proficiency"
+		}, {
+			"level": 3,
+			"description": "Professional Working Proficiency"
+		}, {
+			"level": 4,
+			"description": "Full Professional Proficiency"
+		}, {
+			"level": 5,
+			"description": "Native or Bilingual Proficiency"
+		}]
+	}
+}
