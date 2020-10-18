@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![stats](https://github-readme-stats.vercel.app/api?username=shortthirdman&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=shortthirdman&show_icons=true&count_private=true&theme=gradient)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![shortthirdman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shortthirdman/shortthirdman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
