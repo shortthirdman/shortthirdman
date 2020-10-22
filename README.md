@@ -6,6 +6,8 @@
 
 [![shortthirdman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&theme=react)](https://github.com/shortthirdman)
 
+[![HitCount](http://hits.dwyl.com/shortthirdman/shortthirdman.svg)](http://hits.dwyl.com/shortthirdman/shortthirdman)
+
 <!--
 **shortthirdman/shortthirdman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +22,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on any random project ideas
+- 🌱 I’m currently learning Python, Flutter, GraphQL, React.js, DevOps
+- 👯 I’m looking to collaborate on software developments 
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 🤔 I’m looking for help with Mobile Application Development, ML with Python
+- 💬 Ask me about Front-end web technologies, mobile 
+- 📫 How to reach me: Drop me a message to my <a href="mailto:swetank.mohanty@outlook.com">inbox</a> to initiate a conversation.
