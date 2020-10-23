@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on any random project ideas
-- 🌱 I’m currently learning Python, Flutter, GraphQL, React.js, DevOps
+- 🌱 I’m currently learning **Python, Flutter, GraphQL, React.js, DevOps**
 - 👯 I’m looking to collaborate on software developments 
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 🤔 I’m looking for help with Mobile Application Development, ML with Python
-- 💬 Ask me about Front-end web technologies, mobile 
-- 📫 How to reach me: Drop me a message to my <a href="mailto:swetank.mohanty@outlook.com">inbox</a> to initiate a conversation.
+- 🤔 I’m looking for help with Mobile Application Development, ML with Python, DevOps
+- 💬 Ask me about Front-end web technologies, Web development frameworks
+- 📫 How to reach me: Drop me a message to my<a href="mailto:swetank.mohanty@outlook.com">inbox</a> or via <a href="https://wa.me/919007636266&text=">WhatsApp</a> / <a href="https://t.me/shortthirdman">Telegram</a>
