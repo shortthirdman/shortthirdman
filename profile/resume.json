@@ -61,7 +61,7 @@
 		}, {
 			"network": "YouTube",
 			"username": "SwetankMohantyOfficial",
-			"url": "https://www.youtube.com/user/SwetankMohantyOfficial"
+			"url": "https://www.youtube.com/c/SwetankMohantyOfficial"
 		}, {
 			"network": "HackerRank",
 			"username": "shortthirdman",
@@ -82,9 +82,9 @@
 		},
 		"end": {
 			"year": 2020,
-			"month": 5
+			"month": 8
 		},
-		"summary": "Full-Stack Web Developer",
+		"summary": "Full-time Java and Angular Full-Stack Web Developer",
 		"highlights": [
 			"Joined as a rookie",
 			"Front-end Angular Developer",
@@ -134,23 +134,43 @@
 	}],
 	"volunteer": [],
 	"education": [{
+		"institution": "Indian Institute of Technology, Roorkee",
+		"area": "Data Science and Machine Learning",
+		"studyType": "Post Graduate Certificate Programme",
+		"startDate": "2021-01-27",
+		"endDate": null,
+		"start": {
+			"year": 2021,
+			"month": 1
+		},
+		"end": {
+			"year": null,
+			"month": null
+		},
+		"description": "Post-Graduate Certificate Programme in Data Science & Machine Learning (DS-ML+DL+AI) offered in online mode by Indian Institute of Technology Roorkee",
+		"activities": "",
+		"gpa": "",
+		"courses": ["Data Science", "Machine Learning", "Deep Learning", "Data Modelling", "Artificial Intelligence", "OpenCV",
+			    "Advanced Programming in Python"]
+	}, {
 		"institution": "Sikkim Manipal Institute of Technology",
 		"area": "Computer Science",
 		"studyType": "Bachelor of Technology",
-		"startDate": "2012-07-01",
-		"endDate": "2016-05-01",
+		"startDate": "2011-07-18",
+		"endDate": "2016-05-22",
 		"start": {
-			"year": 2012,
+			"year": 2011,
 			"month": 7
 		},
 		"end": {
 			"year": 2016,
 			"month": 5
 		},
-		"description": "",
+		"description": "Full-time regular four-year Bachelor's Degree Programme in Computer Science",
 		"activities": null,
 		"gpa": "6.38",
-		"courses": []
+		"courses": ["Data Structures", "Programming in C/C++", "Advanced Programming in Java", "Design and Analysis of Algorithms",
+			"Computer Graphics", "Soft Computing", "Database Management Systems", "Computer Networks"]
 	}, {
 		"institution": "Army Public School, Kolkata",
 		"area": "Senior Higher Secondary",
