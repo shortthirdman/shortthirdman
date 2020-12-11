@@ -2,7 +2,7 @@
 
 [![stats](https://github-readme-stats.vercel.app/api?username=shortthirdman&show_icons=true&count_private=true&theme=react&include_all_commits=true)](https://github.com/shortthirdman/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=react)](https://github.com/shortthirdman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=react&layout=compact)](https://github.com/shortthirdman)
 
 [![shortthirdman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&theme=react)](https://github.com/shortthirdman)
 
