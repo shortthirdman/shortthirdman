@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-<a href="https://github.com/shortthirdman" alt="Stats">
+<a href="https://github.com/shortthirdman" alt="GitHub Profile Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shortthirdman&show_icons=true&count_private=true&theme=yeblu&include_all_commits=true" />
 </a>
 <a href="https://github.com/shortthirdman" alt="Top Langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact" />
 </a>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=shortthirdman&show_icons=true&count_private=true&theme=yeblu&include_all_commits=true)](https://github.com/shortthirdman/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact)](https://github.com/shortthirdman)
-
-[![shortthirdman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&theme=yeblu)](https://github.com/shortthirdman)
-
-[![HitCount](http://hits.dwyl.com/shortthirdman/shortthirdman.svg)](http://hits.dwyl.com/shortthirdman/shortthirdman)
+<a href="https://github.com/shortthirdman" alt="shortthirdman's WakaTime Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&theme=yeblu" />
+</a>
+<a href="http://hits.dwyl.com/shortthirdman/shortthirdman" alt="shortthirdman's HitCount">
+  <img align="center" src="http://hits.dwyl.com/shortthirdman/shortthirdman.svg" />
+</a>
 
 <!--
 **shortthirdman/shortthirdman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
