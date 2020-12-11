@@ -1,10 +1,17 @@
 ### Hi there 👋
 
-[![stats](https://github-readme-stats.vercel.app/api?username=shortthirdman&show_icons=true&count_private=true&theme=react&include_all_commits=true)](https://github.com/shortthirdman/)
+<a href="https://github.com/shortthirdman" alt="Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shortthirdman&show_icons=true&count_private=true&theme=yeblu&include_all_commits=true" />
+</a>
+<a href="https://github.com/shortthirdman" alt="Top Langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=react&layout=compact)](https://github.com/shortthirdman)
+[![stats](https://github-readme-stats.vercel.app/api?username=shortthirdman&show_icons=true&count_private=true&theme=yeblu&include_all_commits=true)](https://github.com/shortthirdman/)
 
-[![shortthirdman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&theme=react)](https://github.com/shortthirdman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact)](https://github.com/shortthirdman)
+
+[![shortthirdman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&theme=yeblu)](https://github.com/shortthirdman)
 
 [![HitCount](http://hits.dwyl.com/shortthirdman/shortthirdman.svg)](http://hits.dwyl.com/shortthirdman/shortthirdman)
 
