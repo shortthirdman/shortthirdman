@@ -10,9 +10,7 @@
 <a href="https://github.com/shortthirdman" alt="shortthirdman's WakaTime Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&theme=yeblu" />
 </a>
-<a href="http://hits.dwyl.com/shortthirdman/shortthirdman" alt="shortthirdman's HitCount">
-  <img align="center" src="http://hits.dwyl.com/shortthirdman/shortthirdman.svg" />
-</a>
+
 
 <!--
 **shortthirdman/shortthirdman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![HitCount](http://hits.dwyl.com/shortthirdman/shortthirdman.svg)](http://hits.dwyl.com/shortthirdman/shortthirdman)
 
 - 🔭 I’m currently working on any random project ideas
 - 🌱 I’m currently learning **Python, Flutter, GraphQL, React.js, DevOps**
