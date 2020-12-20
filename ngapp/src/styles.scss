@@ -1,0 +1,36 @@
+// Font Awesome
+$fa-font-path: '~@fortawesome/fontawesome-free/webfonts';
+@import '~@fortawesome/fontawesome-free/scss/fa-brands.scss';
+@import '~@fortawesome/fontawesome-free/scss/fa-regular.scss';
+@import '~@fortawesome/fontawesome-free/scss/fa-solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+
+// Bootstrap 4
+@import '~bootstrap/scss/bootstrap';
+
+@page {
+  size: A4;
+  margin-top: 9mm;
+  margin-bottom: 8mm;
+  margin-left: 7mm;
+  margin-right: 7mm;
+}
+@media print {
+  body {
+      width: 780px;
+      overflow: hidden;
+  }
+  #container {
+      max-width: 780px;
+  }
+}
+
+html, body {
+	height: 100%;
+}
+body {
+	margin: 0;
+	font-family: Roboto, "Helvetica Neue", sans-serif;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
