@@ -243,6 +243,10 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 
+.profile-thumb {
+	background: url('assets/images/user-3.jpg');
+}
+
 #fh5co-header .display-tc .profile-thumb, .fh5co-cover .display-tc .profile-thumb {
   background-size: cover !important;
   background-position: center center;
