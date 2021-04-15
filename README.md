@@ -26,7 +26,7 @@ A software developer living in Kolkata, India 🇮🇳 :india:
 [![shortthirdman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/shortthirdman/shortthirdman)
 -->
 <a href="https://github.com/shortthirdman/shortthirdman" alt="GitHub Streak">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shortthirdman&theme=blue-green" />
 </a>
 
 <!--
