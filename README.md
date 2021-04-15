@@ -22,6 +22,13 @@ A software developer living in Kolkata, India 🇮🇳 :india:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact" />
 </a>
 
+<!-- 
+[![shortthirdman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/shortthirdman/shortthirdman)
+-->
+<a href="https://github.com/shortthirdman/shortthirdman" alt="GitHub Streak">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green" />
+</a>
+
 <!--
 ## 🚀 Skills 🔝
 
