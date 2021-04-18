@@ -37,8 +37,13 @@ A software developer living in Kolkata, India :india:
 <a href="https://github.com/shortthirdman/shortthirdman" alt="Python">
     <img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </a>
+<a href="https://github.com/shortthirdman" alt="Wakatime Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&layout=compact&hide_progress=true" />
+</a>
+
 <!--
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+[![shortthirdman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman)](https://github.com/shortthirdman)
 -->
 
 <!--
