@@ -73,9 +73,9 @@ A software developer living in Kolkata, India :india:
 
 ### Databases
 
-	<a href="https://github.com/shortthirdman/" alt="PostgreSQL">
-		<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-	</a>
+<a href="https://github.com/shortthirdman/" alt="PostgreSQL">
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</a>
 
 ### Cloud / DevOps
 
