@@ -33,16 +33,98 @@ A software developer living in Kolkata, India :india:
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&hide_progress=false&theme=yeblu" />
 </a>
 
-## 🚀 Skills 🔝
+## 🚀 Skills 🔝 ##
 
-<a href="https://github.com/shortthirdman/shortthirdman" alt="JavaScript">
-    <img align="center" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-</a>
-<a href="https://github.com/shortthirdman/shortthirdman" alt="Python">
-    <img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-</a>
+### Languages & Frameworks ###
+
+	<a href="https://github.com/shortthirdman/" alt="JavaScript">
+		<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Python">
+		<img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Java">
+		<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="TypeScript">
+		<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="NodeJS">
+		<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="npm">
+		<img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Sass">
+		<img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Angular">
+		<img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Spring">
+		<img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Markdown">
+		<img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Bash">
+		<img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+	</a>
+
+### Databases ###
+
+	<a href="https://github.com/shortthirdman/" alt="PostgreSQL">
+		<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+	</a>
+
+### Cloud / DevOps ###
+
+	<a href="https://github.com/shortthirdman/" alt="Netlify">
+		<img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Heroku">
+		<img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Amazon AWS">
+		<img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+	</a>
+	<a href="https://github.com/shortthirdman/" alt="Docker">
+		<img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+	</a>
+
+### IDE ###
+
+	<a href="https://github.com/shortthirdman/" alt="MS Visual Studio Code">
+		<img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+	</a>	
+	<a href="https://github.com/shortthirdman/" alt="Jupyter">
+		<img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+	</a>
+
+
+### Version Control ###
+
+	<a href="https://github.com/shortthirdman/" alt="Git">
+		<img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+	</a>
+
+### Tools ###
+
+	<a href="https://github.com/shortthirdman/" alt="Postman">
+		<img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+	</a>
 
 <!--
+<a href="https://github.com/shortthirdman/" alt="">
+	<img align="center" src="" />
+</a>
+<a href="https://github.com/shortthirdman/" alt="">
+	<img align="center" src="" />
+</a>
+<a href="https://github.com/shortthirdman/" alt="">
+	<img align="center" src="" />
+</a>
+
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
 [![shortthirdman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman)](https://github.com/shortthirdman)
 -->
