@@ -30,7 +30,7 @@ A software developer living in Kolkata, India :india:
 </a>
 
 <a href="https://github.com/shortthirdman" alt="Wakatime Stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&layout=compact&hide_progress=true&theme=yeblu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&hide_progress=false&theme=yeblu" />
 </a>
 
 ## 🚀 Skills 🔝
