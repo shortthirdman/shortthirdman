@@ -33,9 +33,9 @@ A software developer living in Kolkata, India :india:
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&hide_progress=false&theme=yeblu" />
 </a>
 
-## 🚀 Skills 🔝 ##
+## 🚀 Skills 🔝
 
-### Languages & Frameworks ###
+### Languages & Frameworks
 
 	<a href="https://github.com/shortthirdman/" alt="JavaScript">
 		<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -71,13 +71,13 @@ A software developer living in Kolkata, India :india:
 		<img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 	</a>
 
-### Databases ###
+### Databases
 
 	<a href="https://github.com/shortthirdman/" alt="PostgreSQL">
 		<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 	</a>
 
-### Cloud / DevOps ###
+### Cloud / DevOps
 
 	<a href="https://github.com/shortthirdman/" alt="Netlify">
 		<img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -92,7 +92,7 @@ A software developer living in Kolkata, India :india:
 		<img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 	</a>
 
-### IDE ###
+### IDE
 
 	<a href="https://github.com/shortthirdman/" alt="MS Visual Studio Code">
 		<img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -102,13 +102,13 @@ A software developer living in Kolkata, India :india:
 	</a>
 
 
-### Version Control ###
+### Version Control
 
 	<a href="https://github.com/shortthirdman/" alt="Git">
 		<img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 	</a>
 
-### Tools ###
+### Tools
 
 	<a href="https://github.com/shortthirdman/" alt="Postman">
 		<img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
