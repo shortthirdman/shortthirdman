@@ -29,6 +29,10 @@ A software developer living in Kolkata, India :india:
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shortthirdman&theme=blue-green" />
 </a>
 
+<a href="https://github.com/shortthirdman" alt="Wakatime Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&layout=compact&hide_progress=true&theme=yeblu" />
+</a>
+
 ## 🚀 Skills 🔝
 
 <a href="https://github.com/shortthirdman/shortthirdman" alt="JavaScript">
@@ -36,9 +40,6 @@ A software developer living in Kolkata, India :india:
 </a>
 <a href="https://github.com/shortthirdman/shortthirdman" alt="Python">
     <img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<a href="https://github.com/shortthirdman" alt="Wakatime Stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&layout=compact&hide_progress=true" />
 </a>
 
 <!--
