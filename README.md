@@ -9,13 +9,13 @@ A software developer living in Kolkata, India :india:
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;
 <a href="https://www.instagram.com/shortthirdman" alt="Follow Me on Instagram">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="center" style="margin-top:-2.5%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;
 <a href="https://www.facebook.com/ShortThirdManOfficial" alt="Connect on Facebook">
-  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img align="center" style="margin-top:-2.5%" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;
 <a href="https://www.tiktok.com/shortthirdman" alt="Follow Me on TikTok">
-  <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img align="center" style="margin-top:-2.5%" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/shortthirdman" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -28,16 +28,16 @@ A software developer living in Kolkata, India :india:
 
 <a href="https://github.com/shortthirdman" alt="GitHub Profile Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shortthirdman&show_icons=true&count_private=true&theme=yeblu&include_all_commits=true" />
-</a>
+</a>&nbsp;
 <a href="https://github.com/shortthirdman" alt="Top Langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact" />
-</a>
+</a>&nbsp;
 <a href="https://github.com/shortthirdman/shortthirdman" alt="GitHub Streak">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shortthirdman&theme=blue-green" />
-</a>
+</a>&nbsp;
 <a href="https://github.com/shortthirdman" alt="Wakatime Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&hide_progress=false&theme=yeblu" />
-</a>
+</a>&nbsp;
 
 ## 🚀 Skills 🔝
 
@@ -69,22 +69,22 @@ A software developer living in Kolkata, India :india:
 </a>&nbsp;
 <br/>
 <a href="https://github.com/shortthirdman/" alt="Sass">
-  <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" style="margin-top:-2.5%" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Bootstrap">
-  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" style="margin-top:-2.5%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Angular">
-  <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" style="margin-top:-2.5%" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Spring">
-  <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="center" style="margin-top:-2.5%" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Markdown">
-  <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img align="center" style="margin-top:-2.5%"src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Bash">
-  <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img align="center" style="margin-top:-2.5%" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </a>&nbsp;
 <!--<a href="https://github.com/shortthirdman/" alt="GraphQL">
   <img align="center" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
