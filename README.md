@@ -42,6 +42,13 @@ A software developer living in Kolkata, India :india:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&hide_progress=false&theme=yeblu" />
 </a>&nbsp;
 
+<br/>
+
+<a href="https://github.com/shortthirdman/" alt="GitHub Trophy" style="text-decoration:none;">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=shortthirdman&row=1" />
+</a>
+
+
 ## 🚀 Skills 🔝
 
 ### Languages & Frameworks
@@ -89,6 +96,8 @@ A software developer living in Kolkata, India :india:
 <a href="https://github.com/shortthirdman/" alt="Bash" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </a>&nbsp;
+
+
 <!--<a href="https://github.com/shortthirdman/" alt="GraphQL" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </a>
@@ -96,6 +105,7 @@ https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoCol
 https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[![shortthirdman's github trophy](https://github-profile-trophy.vercel.app/?username=shortthirdman&row=1)](https://github.com/shortthirdman/shortthirdman)
 -->
 
 ### Databases
