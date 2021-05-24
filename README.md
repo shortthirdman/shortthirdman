@@ -3,7 +3,7 @@
 A full-stack software developer living in Pune, India :india:
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)
-[![GitHub PVC](https://hit.yhype.me/github/profile?user_id=5894985)](https://github.com/shortthirdman/shortthirdman)
+
 
 <a href="https://api.whatsapp.com/send?phone=919007636266&text=Hello%20Swetank,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on WhatsApp" style="text-decoration: none;"> 
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
@@ -197,3 +197,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Front-end web technologies, Web development frameworks
 - 📫 How to reach me: Drop me a message to my <a href="mailto:swetank.mohanty@outlook.com">inbox</a> or via <a href="https://wa.me/919007636266&text=" target="_blank" rel="noopener noreferrer">WhatsApp</a> / <a href="https://t.me/shortthirdman" target="_blank" rel="noopener noreferrer">Telegram</a>
 -->
+
+[![GitHub PVC](https://hit.yhype.me/github/profile?user_id=5894985)](https://github.com/shortthirdman/shortthirdman)
