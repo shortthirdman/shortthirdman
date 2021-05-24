@@ -146,23 +146,28 @@ https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoC
 </a>&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Microsoft Azure" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Docker" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Kubernetes" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 
 ### IDE
 
-<a href="https://github.com/shortthirdman/" alt="MS Visual Studio Code" style="text-decoration: none;">
+<a href="https://code.visualstudio.com/" target="_blank" alt="MS Visual Studio Code" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Jupyter" style="text-decoration: none;">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/shortthirdman/" alt="Jupyter" target="_blank" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://atom.io/" alt="Atom" target="_blank" style="text-decoration: none;">
+  <img align="center" alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.sublimetext.com/" alt="Sublime Text" target="_blank" style="text-decoration: none;">
+  <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 </a>
-
 
 ### Version Control
 
