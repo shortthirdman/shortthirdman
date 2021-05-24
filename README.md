@@ -7,25 +7,41 @@ A full-stack software developer living in Pune, India :india:
 
 <a href="https://api.whatsapp.com/send?phone=919007636266&text=Hello%20Swetank,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on WhatsApp" style="text-decoration: none;"> 
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://www.twitter.com/ShortThirdMan93" alt="Follow Me on Twitter" style="text-decoration: none;"> 
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/shortthirdman" alt="Follow Me on Instagram" style="text-decoration: none;">
   <img align="center" style="margin-top:-2.5%;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/ShortThirdManOfficial" alt="Connect on Facebook" style="text-decoration: none;">
   <img align="center" style="margin-top:-2.5%;" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://www.tiktok.com/shortthirdman" alt="Follow Me on TikTok" style="text-decoration: none;">
   <img align="center" style="margin-top:-2.5%;" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shortthirdman" alt="Connect on LinkedIn" style="text-decoration: none;"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="mailto:swetank.mohanty@outlook.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/email%20me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
+
+<br/><br/>
+
+## Schedule Meeting
+
+<a href="#" alt="Microsoft Teams" style="text-decoration: none;">
+  <img align="center" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="#" alt="Zoom" style="text-decoration: none;">
+  <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<!--<a href="#" alt="Webex" style="text-decoration: none;">
+  <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+</a>&nbsp;&nbsp;-->
 
 <br/><br/>
 
