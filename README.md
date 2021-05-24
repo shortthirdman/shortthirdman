@@ -87,41 +87,48 @@ A full-stack software developer living in Pune, India :india:
 </a>&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Java" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="TypeScript" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="NodeJS" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="npm" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="HTML5" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="CSS3" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>&nbsp;
-<br/>
+</a>&nbsp;&nbsp;
+<br/><br/>
 <a href="https://github.com/shortthirdman/" alt="Sass" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Bootstrap" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Angular" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Spring" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Markdown" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Bash" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
+<br/><br/>
+<a href="https://pandas.pydata.org/" target="_blank" alt="Pandas" style="text-decoration: none;">
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://numpy.org/" target="_blank" alt="NumPy" style="text-decoration: none;">
+  <img align="center" alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 
 <!--<a href="https://github.com/shortthirdman/" alt="GraphQL" style="text-decoration: none;">
@@ -178,28 +185,28 @@ https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoC
 
 ### Version Control
 
-<a href="https://github.com/shortthirdman/" alt="Git" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="Git" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </a>&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Bitbucket" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="Bitbucket" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </a>&nbsp;
-<a href="https://github.com/shortthirdman/" alt="GitLab" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="GitLab" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Bitbucket" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="Bitbucket" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
 
 ### Tools
 
-<a href="https://www.postman.com/" alt="Postman" style="text-decoration: none;">
+<a href="https://www.postman.com/" target="_blank" alt="Postman" style="text-decoration: none;">
   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://babeljs.io/" alt="Babel" style="text-decoration: none;">
+<a href="https://babeljs.io/" target="_blank" alt="Babel" style="text-decoration: none;">
   <img align="center" alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
 </a>&nbsp;&nbsp;
-<a href="https://eslint.org/" alt="" style="text-decoration: none;">
+<a href="https://eslint.org/" target="_blank" alt="ESLint" style="text-decoration: none;">
   <img align="center" alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
 </a>&nbsp;&nbsp;
 

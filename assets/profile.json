@@ -34,6 +34,13 @@
 			"countryCode": "IN",
 			"region": "West Bengal"
 		},
+		"communications": [{
+			"messenger": "Microsoft Teams",
+			"urlLink": "https://teams.microsoft.com/l/chat/0/0?users=swetank.mohanty@outlook.com"
+		}, {
+			"messenger": "Zoom",
+			"urlLink": ""
+		}],
 		"profiles": [{
 			"network": "GitHub",
 			"username": "shortthirdman",
