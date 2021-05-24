@@ -2,6 +2,13 @@
 
 A full-stack software developer living in Pune, India :india:
 
+- 🔭 I’m currently working on any random project ideas
+- 🌱 I’m currently learning **Python, Flutter, GraphQL, React.js, DevOps**
+- 👯 I’m looking to collaborate on software developments 
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 🤔 I’m looking for help with Mobile Application Development, ML with Python, DevOps
+- 💬 Ask me about Front-end web technologies, Web development frameworks
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)
 
 
@@ -186,9 +193,15 @@ https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoC
 
 ### Tools
 
-<a href="https://github.com/shortthirdman/" alt="Postman" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</a>&nbsp;
+<a href="https://www.postman.com/" alt="Postman" style="text-decoration: none;">
+  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://babeljs.io/" alt="Babel" style="text-decoration: none;">
+  <img align="center" alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
+</a>&nbsp;&nbsp;
+<a href="https://eslint.org/" alt="" style="text-decoration: none;">
+  <img align="center" alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 <!--
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
@@ -219,4 +232,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Drop me a message to my <a href="mailto:swetank.mohanty@outlook.com">inbox</a> or via <a href="https://wa.me/919007636266&text=" target="_blank" rel="noopener noreferrer">WhatsApp</a> / <a href="https://t.me/shortthirdman" target="_blank" rel="noopener noreferrer">Telegram</a>
 -->
 
-[![GitHub PVC](https://hit.yhype.me/github/profile?user_id=5894985)](https://github.com/shortthirdman/shortthirdman)
+
+<!-- [![GitHub PVC](https://hit.yhype.me/github/profile?user_id=5894985)](https://github.com/shortthirdman/shortthirdman) -->
