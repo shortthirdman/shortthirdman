@@ -92,7 +92,7 @@ A full-stack software developer living in Pune, India :india:
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="NodeJS" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="npm" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
