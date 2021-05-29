@@ -183,6 +183,21 @@ https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoC
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 </a>
 
+### Operating Systems (OS)
+
+<a href="https://www.microsoft.com/en-in/windows" target="_blank" alt="Microsoft Windows" style="text-decoration: none;">
+  <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank" alt="Linux" style="text-decoration: none;">
+  <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</a>&nbsp;&nbsp;
+<a href="https://ubuntu.com/" target="_blank" alt="Ubuntu" style="text-decoration: none;">
+  <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://getfedora.org/" target="_blank" alt="Ubuntu" style="text-decoration: none;">
+  <img align="center" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+</a>&nbsp;&nbsp;
+
 ### Version Control
 
 <a href="https://github.com/shortthirdman/" target="_blank" alt="Git" style="text-decoration: none;">

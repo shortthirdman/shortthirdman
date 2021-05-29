@@ -39,7 +39,13 @@
 			"urlLink": "https://teams.microsoft.com/l/chat/0/0?users=swetank.mohanty@outlook.com"
 		}, {
 			"messenger": "Zoom",
-			"urlLink": ""
+			"urlLink": "https://zoom.us/j/YourPersonalMeetingID?pwd=password"
+		}, {
+			"messenger": "Cisco Webex",
+			"urlLink": "https://meet66.webex.com/meet/pr1583432825"
+		}, {
+			"messenger": "GoTo Meeting",
+			"urlLink": "https://gotomeet.me/swetankmohanty"
 		}],
 		"profiles": [{
 			"network": "GitHub",
