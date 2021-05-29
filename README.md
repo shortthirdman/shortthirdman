@@ -79,39 +79,45 @@ A full-stack software developer living in Pune, India :india:
 
 ### Languages & Frameworks
 
-<a href="https://github.com/shortthirdman/" alt="JavaScript" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="JavaScript" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</a>&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Python" style="text-decoration: none;">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/shortthirdman/" target="_blank" alt="Python" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Java" style="text-decoration: none;">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/shortthirdman/" target="_blank" alt="Java" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="TypeScript" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="TypeScript" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="NodeJS" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="NodeJS" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="npm" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="npm" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="HTML5" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="HTML5" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="CSS3" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="CSS3" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>&nbsp;&nbsp;
 <br/><br/>
-<a href="https://github.com/shortthirdman/" alt="Sass" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="Sass" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Bootstrap" style="text-decoration: none;">
+<a href="https://www.chartjs.org/" target="_blank" alt="Chart.js" style="text-decoration: none;">
+  <img align="center" alt="Chart.js" src="https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/shortthirdman/" target="_blank" alt="Bootstrap" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Angular" style="text-decoration: none;">
+<a href="https://github.com/shortthirdman/" target="_blank" alt="Angular" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://emberjs.com/" target="_blank" alt="Ember.js" style="text-decoration: none;">
+  <img align="center" alt="Ember.js" src="https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=ember-dot-js&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/shortthirdman/" alt="Spring" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -129,6 +135,9 @@ A full-stack software developer living in Pune, India :india:
 <a href="https://numpy.org/" target="_blank" alt="NumPy" style="text-decoration: none;">
   <img align="center" alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" alt="Windows PowerShell" style="text-decoration: none;">
+  <img align="center" alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 
 <!--<a href="https://github.com/shortthirdman/" alt="GraphQL" style="text-decoration: none;">
@@ -138,7 +147,16 @@ https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoCol
 https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-[![shortthirdman's github trophy](https://github-profile-trophy.vercel.app/?username=shortthirdman&row=1)](https://github.com/shortthirdman/shortthirdman)
+
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+
+https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
+
+https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white
+
+https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white
+
+https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white
 -->
 
 ### Databases
