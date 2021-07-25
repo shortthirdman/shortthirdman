@@ -56,8 +56,16 @@ A full-stack software developer living in Pune, India :india:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact" />
 </a>&nbsp;
 
+<a href="https://github.com/shortthirdman-org" alt="Org Top Langs" style="text-decoration:none;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman-org&langs_count=10&theme=yeblu&layout=compact" />
+</a>&nbsp;
+
 <a href="https://github.com/shortthirdman/" alt="GitHub Profile Stats" style="text-decoration: none;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shortthirdman&show_icons=true&count_private=true&theme=yeblu&include_all_commits=true" />
+</a>&nbsp;
+
+<a href="https://github.com/shortthirdman-org/" alt="GitHub Org Profile Stats" style="text-decoration: none;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shortthirdman-org&show_icons=true&count_private=true&theme=yeblu&include_all_commits=true" />
 </a>&nbsp;
 
 <a href="https://github.com/shortthirdman/" alt="GitHub Streak" style="text-decoration: none;">
