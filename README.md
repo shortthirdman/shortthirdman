@@ -1,6 +1,7 @@
-### Hi there 👋, I am Swetank Mohanty 👨‍💻
+![image](https://user-images.githubusercontent.com/5894985/141411927-81dc5de8-34a3-46cc-a97f-69a01c2c6eca.png)
 
-A full-stack software developer living in Pune, India :india:
+
+A full-stack software developer living in Bengaluru, India :india:
 
 - 🔭 I’m currently working on any random project ideas
 - 🌱 I’m currently learning **Python, Flutter, GraphQL, React.js, DevOps**
