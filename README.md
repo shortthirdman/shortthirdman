@@ -80,6 +80,10 @@ A full-stack software developer living in Bengaluru, India :india:
 
 ### Languages & Frameworks
 
+<a href="https://angular.io" target="_blank" alt="Angular" style="text-decoration: none;">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" align="center" style="background-color: #DD0031;" />
+</a>
+
 <a href="https://github.com/shortthirdman/" target="_blank" alt="JavaScript" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>&nbsp;&nbsp;
