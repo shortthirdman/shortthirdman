@@ -1,6 +1,12 @@
 ![image](https://user-images.githubusercontent.com/5894985/141411927-81dc5de8-34a3-46cc-a97f-69a01c2c6eca.png)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shortthirdman&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shortthirdman&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shortthirdman&theme=github)
+
 A full-stack software developer living in Bengaluru, India :india:
 
 - 🔭 I’m currently working on any random project ideas
