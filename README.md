@@ -3,7 +3,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shortthirdman&theme=github)
 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shortthirdman&theme=github)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shortthirdman&theme=github)
 
@@ -18,6 +20,7 @@ A full-stack software developer living in Bengaluru, India :india:
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)
 
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,bash,linux,maven,mysql,nodejs,css,postgres,powershell,py,sass,spring,docker,eclipse,ember,git,github,githubactions,grafana,html,idea,vscode&theme=light)](https://skillicons.dev)
 
 <a href="https://api.whatsapp.com/send?phone=919007636266&text=Hello%20Swetank,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on WhatsApp" style="text-decoration: none;"> 
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
