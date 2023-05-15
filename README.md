@@ -1,26 +1,31 @@
-![image](https://user-images.githubusercontent.com/5894985/141411927-81dc5de8-34a3-46cc-a97f-69a01c2c6eca.png)
+![Hello](https://user-images.githubusercontent.com/5894985/141411927-81dc5de8-34a3-46cc-a97f-69a01c2c6eca.png)
 
+[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shortthirdman&theme=github)](https://github.com/shortthirdman)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shortthirdman&theme=github)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shortthirdman&theme=github)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shortthirdman&theme=github)
-
-A full-stack software developer living in Bengaluru, India :india:
-
-- 🔭 I’m currently working on any random project ideas
-- 🌱 I’m currently learning **Python, Flutter, GraphQL, React.js, DevOps**
-- 👯 I’m looking to collaborate on software developments 
-- 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 🤔 I’m looking for help with Mobile Application Development, ML with Python, DevOps
-- 💬 Ask me about Front-end web technologies, Web development frameworks
+[![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shortthirdman&theme=github)](https://github.com/shortthirdman)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,bash,linux,maven,mysql,nodejs,css,postgres,powershell,py,sass,spring,docker,eclipse,ember,git,github,githubactions,grafana,html,idea,vscode&theme=light)](https://skillicons.dev)
+
+### About Me:
+
+o Organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks and stay calm under pressure.
+o Proactive team player, strong team orientation & leadership qualities and hard working with capability of handling responsibilities independently. Result-driven, customer-focused, articulate and analytical software engineer who can think outside the box.
+o Ability to work under strict deadline requirements, handle multiple tasks, take initiative and become adaptable; willingness to accept responsibility and eager to learn the new dimension products.
+o Highly focused software developer with over 5 years of experience in development positions. Organized and methodical with an eye for detail resulting in solid coding and trustworthy software programs.
+o Accomplished software developer specialized in object-oriented approach to platform development. Extensive background in full life cycle of software development encompassing design, coding, testing and debugging.
+o Self-motivated and hardworking graduate seeking an opportunity to work in a challenging environment to prove my coding skills and utilize my knowledge of various databases for the growth of the organization.
+o Always looking for challenging work oppurtunities ahead.
+
+- 🔭 I’m currently working on any random project ideas
+- 👯 I’m looking to collaborate on software developments 
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+
+- 💬 Ask me about Front-end web technologies, Web development frameworks
+- 📫 How to reach me: Drop me a message to my <a href="mailto:swetank.mohanty@outlook.com">inbox</a> or via <a href="https://wa.me/919007636266&text=" target="_blank" rel="noopener noreferrer">WhatsApp</a> / <a href="https://t.me/shortthirdman" target="_blank" rel="noopener noreferrer">Telegram</a>
+
+
+[![GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortthirdman)](https://www.githubtrends.io/wrapped/shortthirdman)
 
 <a href="https://api.whatsapp.com/send?phone=919007636266&text=Hello%20Swetank,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on WhatsApp" style="text-decoration: none;"> 
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
@@ -50,15 +55,13 @@ A full-stack software developer living in Bengaluru, India :india:
 
 <a href="#" alt="Microsoft Teams" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-</a>&nbsp;&nbsp;
-
+</a>
 <a href="#" alt="Zoom" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<!--<a href="#" alt="Webex" style="text-decoration: none;">
+</a>
+<a href="#" alt="Webex" style="text-decoration: none;">
   <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
-</a>&nbsp;&nbsp;-->
+</a>
 
 <br/><br/>
 
@@ -74,10 +77,6 @@ A full-stack software developer living in Bengaluru, India :india:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shortthirdman&theme=blue-green" />
 </a>&nbsp;
 
-<a href="https://wakatime.com/@shortthirdman" alt="Wakatime Stats" style="text-decoration: none;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman&hide_progress=false&theme=yeblu" />
-</a>&nbsp;
-
 <br/>
 
 <a href="https://github.com/shortthirdman/" alt="GitHub Trophy" style="text-decoration:none;">
@@ -85,206 +84,4 @@ A full-stack software developer living in Bengaluru, India :india:
 </a>
 
 
-## 🚀 Skills 🔝
-
-### Languages & Frameworks
-
-<!-- <a href="https://angular.io" target="_blank" alt="Angular" style="text-decoration: none;"> -->
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" align="center" style="background-color: #DD0031; color: #DD0031;" />
-<!-- </a> -->
-
-<a href="https://github.com/shortthirdman/" target="_blank" alt="JavaScript" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="Python" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="Java" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="TypeScript" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="NodeJS" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="npm" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="HTML5" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="CSS3" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>&nbsp;&nbsp;
-<br/><br/>
-<a href="https://github.com/shortthirdman/" target="_blank" alt="Sass" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.chartjs.org/" target="_blank" alt="Chart.js" style="text-decoration: none;">
-  <img align="center" alt="Chart.js" src="https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="Bootstrap" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="Angular" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://emberjs.com/" target="_blank" alt="Ember.js" style="text-decoration: none;">
-  <img align="center" alt="Ember.js" src="https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=ember-dot-js&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Spring" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Markdown" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Bash" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</a>&nbsp;&nbsp;
-<br/><br/>
-<a href="https://pandas.pydata.org/" target="_blank" alt="Pandas" style="text-decoration: none;">
-  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://numpy.org/" target="_blank" alt="NumPy" style="text-decoration: none;">
-  <img align="center" alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" alt="Windows PowerShell" style="text-decoration: none;">
-  <img align="center" alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-
-<!--<a href="https://github.com/shortthirdman/" alt="GraphQL" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</a>
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
-
-https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
-
-https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white
-
-https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white
-
-https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white
--->
-
-### Databases
-
-<a href="https://github.com/shortthirdman/" alt="PostgreSQL" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</a>
-
-### Cloud / DevOps
-
-<a href="https://github.com/shortthirdman/" alt="Netlify" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Heroku" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Amazon AWS" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Microsoft Azure" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Docker" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Kubernetes" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-### IDE
-
-<a href="https://code.visualstudio.com/" target="_blank" alt="MS Visual Studio Code" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shortthirdman/" alt="Jupyter" target="_blank" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://atom.io/" alt="Atom" target="_blank" style="text-decoration: none;">
-  <img align="center" alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.sublimetext.com/" alt="Sublime Text" target="_blank" style="text-decoration: none;">
-  <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
-</a>
-
-### Operating Systems (OS)
-
-<a href="https://www.microsoft.com/en-in/windows" target="_blank" alt="Microsoft Windows" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linux.org/" target="_blank" alt="Linux" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</a>&nbsp;&nbsp;
-<a href="https://ubuntu.com/" target="_blank" alt="Ubuntu" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://getfedora.org/" target="_blank" alt="Ubuntu" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-### Version Control
-
-<a href="https://github.com/shortthirdman/" target="_blank" alt="Git" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="Bitbucket" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="GitLab" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/shortthirdman/" target="_blank" alt="Bitbucket" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-
-### Tools
-
-<a href="https://www.postman.com/" target="_blank" alt="Postman" style="text-decoration: none;">
-  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://babeljs.io/" target="_blank" alt="Babel" style="text-decoration: none;">
-  <img align="center" alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
-</a>&nbsp;&nbsp;
-<a href="https://eslint.org/" target="_blank" alt="ESLint" style="text-decoration: none;">
-  <img align="center" alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<!--
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
-[![shortthirdman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shortthirdman)](https://github.com/shortthirdman)
--->
-
-<!--
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-**shortthirdman/shortthirdman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 🔭 I’m currently working on any random project ideas
-- 🌱 I’m currently learning **Python, Flutter, GraphQL, React.js, DevOps**
-- 👯 I’m looking to collaborate on software developments 
-- 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 🤔 I’m looking for help with Mobile Application Development, ML with Python, DevOps
-- 💬 Ask me about Front-end web technologies, Web development frameworks
-- 📫 How to reach me: Drop me a message to my <a href="mailto:swetank.mohanty@outlook.com">inbox</a> or via <a href="https://wa.me/919007636266&text=" target="_blank" rel="noopener noreferrer">WhatsApp</a> / <a href="https://t.me/shortthirdman" target="_blank" rel="noopener noreferrer">Telegram</a>
--->
-
-
-<!-- [![GitHub PVC](https://hit.yhype.me/github/profile?user_id=5894985)](https://github.com/shortthirdman/shortthirdman) -->
+<!--## 🚀 Skills 🔝-->
