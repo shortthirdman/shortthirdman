@@ -57,20 +57,6 @@
 
 <br/><br/>
 
-## Schedule Meeting
-
-<a href="#" alt="Microsoft Teams" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-</a>
-<a href="#" alt="Zoom" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
-</a>
-<a href="#" alt="Webex" style="text-decoration: none;">
-  <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/shortthirdman/" alt="Top Langs" style="text-decoration:none;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact" />
 </a>&nbsp;
@@ -78,17 +64,9 @@
 <a href="https://github.com/shortthirdman/" alt="GitHub Profile Stats" style="text-decoration: none;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shortthirdman&show_icons=true&count_private=true&theme=yeblu&include_all_commits=true" />
 </a>&nbsp;
-
 <a href="https://github.com/shortthirdman/" alt="GitHub Streak" style="text-decoration: none;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shortthirdman&theme=blue-green" />
+  <img align="center" src="https://streak-stats.demolab.com?user=shortthirdman&theme=dark&hide_border=true&border_radius=4.6" />
 </a>&nbsp;
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=shortthirdman&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats) -->
-
-<br/>
-
-<a href="https://github.com/shortthirdman/" alt="GitHub Trophy" style="text-decoration:none;">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=shortthirdman&row=1" />
-</a>
 
 
 <!--## 🚀 Skills 🔝-->
