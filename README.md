@@ -7,20 +7,17 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)
 
 
-### About Me:
+## About Me
 
-o Organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks and stay calm under pressure.
-o Proactive team player, strong team orientation & leadership qualities and hard working with capability of handling responsibilities independently. Result-driven, customer-focused, articulate and analytical software engineer who can think outside the box.
-o Ability to work under strict deadline requirements, handle multiple tasks, take initiative and become adaptable; willingness to accept responsibility and eager to learn the new dimension products.
-o Highly focused software developer with over 5 years of experience in development positions. Organized and methodical with an eye for detail resulting in solid coding and trustworthy software programs.
-o Accomplished software developer specialized in object-oriented approach to platform development. Extensive background in full life cycle of software development encompassing design, coding, testing and debugging.
-o Self-motivated and hardworking graduate seeking an opportunity to work in a challenging environment to prove my coding skills and utilize my knowledge of various databases for the growth of the organization.
-o Always looking for challenging work oppurtunities ahead.
-
+- Organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks and stay calm under pressure.
+- Proactive team player, strong team orientation & leadership qualities and hard working with capability of handling responsibilities independently. Result-driven, customer-focused, articulate and analytical software engineer who can think outside the box.
+- Ability to work under strict deadline requirements, handle multiple tasks, take initiative and become adaptable; willingness to accept responsibility and eager to learn the new dimension products.
+- Highly focused software developer with over 5 years of experience in development positions. Organized and methodical with an eye for detail resulting in solid coding and trustworthy software programs.
+- Accomplished software developer specialized in object-oriented approach to platform development. Extensive background in full life cycle of software development encompassing design, coding, testing and debugging.
+- Self-motivated and hardworking graduate seeking an opportunity to work in a challenging environment to prove my coding skills and utilize my knowledge of various databases for the growth of the organization.
 - 🔭 I’m currently working on any random project ideas
 - 👯 I’m looking to collaborate on software developments 
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-
 - 💬 Ask me about Front-end web technologies, Web development frameworks
 - 📫 How to reach me: Drop me a message to my <a href="mailto:swetank.mohanty@outlook.com">inbox</a> or via <a href="https://wa.me/919007636266&text=" target="_blank" rel="noopener noreferrer">WhatsApp</a> / <a href="https://t.me/shortthirdman" target="_blank" rel="noopener noreferrer">Telegram</a>
 
