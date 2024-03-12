@@ -1,8 +1,12 @@
 ![Hello](https://user-images.githubusercontent.com/5894985/141411927-81dc5de8-34a3-46cc-a97f-69a01c2c6eca.png)
 
-[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shortthirdman&theme=github)](https://github.com/shortthirdman)
+[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shortthirdman&theme=github_dark)](https://github.com/shortthirdman)
 
-[![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shortthirdman&theme=github)](https://github.com/shortthirdman)
+[![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shortthirdman&theme=github_dark)](https://github.com/shortthirdman)
+
+![Commits by Offset](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shortthirdman&theme=github_dark&utcOffset=8)
+
+![Top Lang by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shortthirdman&theme=github_dark)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)
 
