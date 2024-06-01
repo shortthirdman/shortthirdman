@@ -10,8 +10,7 @@ ghpages.publish('site', {
     name: 'Swetank Mohanty',
     email: 'swetank.mohanty@outlook.com'
   },
-  silent: false,
-  repo: 'https://github.com/shortthirdman/shortthirdman.git'
+  silent: false
 }, (err) => {
 	console.error("Error while publishing to GitHub Pages", err);
 });
