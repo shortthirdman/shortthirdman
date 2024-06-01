@@ -2,9 +2,9 @@
   "name": "shortthirdman",
   "version": "1.0.0",
   "description": "ShortThirdMan",
-  "main": "publish.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"deploy": "gh-pages -d site -a -u \"github-actions-bot <support+actions@github.com>\""
   },
   "repository": {
     "type": "git",
