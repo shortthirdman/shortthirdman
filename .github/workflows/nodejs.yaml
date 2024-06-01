@@ -29,3 +29,5 @@ jobs:
       run: npm ci
     - name: Publish to GitHub Pages
       run: node publish.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
