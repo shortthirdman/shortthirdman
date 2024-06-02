@@ -46,8 +46,8 @@ jobs:
       
     - name: Copy build artifacts
       run: |
+        install -D -m 644 github-shortthirdman/dist/github-shortthirdman/3rdpartylicenses.txt shortthirdman-github-io/docs/
         cp -R github-shortthirdman/dist/github-shortthirdman/browser/* shortthirdman-github-io/docs/
-        cp github-shortthirdman/dist/github-shortthirdman/3rdpartylicenses.txt shortthirdman-github-io/docs/
       
     - name: Commit and push changes
       run: |
