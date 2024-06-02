@@ -34,7 +34,7 @@ jobs:
     - name: Build Angular App
       run: |
         cd github-shortthirdman
-        npm run build -- --prod
+        npm run build
       
     - name: Clone destination repository
       run: |
@@ -45,7 +45,9 @@ jobs:
         git clone --depth 1 https://github.com/shortthirdman/shortthirdman.github.io.git shortthirdman-github-io
       
     - name: Copy build artifacts
-      run: cp -R github-shortthirdman/dist/* shortthirdman-github-io/
+      run: |
+        cp -R github-shortthirdman/dist/github-shortthirdman/browser/* shortthirdman-github-io/docs/
+        cp github-shortthirdman/dist/github-shortthirdman/3rdpartylicenses.txt shortthirdman-github-io/docs/
       
     - name: Commit and push changes
       run: |
