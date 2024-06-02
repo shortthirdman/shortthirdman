@@ -46,8 +46,9 @@ jobs:
       
     - name: Copy build artifacts
       run: |
-        install -D -m 644 github-shortthirdman/dist/github-shortthirdman/3rdpartylicenses.txt shortthirdman-github-io/docs/
-        cp -R github-shortthirdman/dist/github-shortthirdman/browser/* shortthirdman-github-io/docs/
+        docs_dir="shortthirdman-github-io/docs"; if [ ! -d "$docs_dir" ]; then mkdir -p "$docs_dir"; echo "Directory '$docs_dir' created."; else echo "Directory '$docs_dir' already exists."; fi
+        cp github-shortthirdman/dist/github-shortthirdman/3rdpartylicenses.txt ${docs_dir}/
+        cp -R github-shortthirdman/dist/github-shortthirdman/browser/* ${docs_dir}/
       
     - name: Commit and push changes
       run: |
