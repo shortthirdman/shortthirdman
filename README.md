@@ -10,20 +10,14 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)
 
+[![wakatime](https://wakatime.com/badge/user/b8bdcb81-61f7-46a2-bae9-de008e5ebcf5.svg)](https://wakatime.com/@b8bdcb81-61f7-46a2-bae9-de008e5ebcf5)
+
 
 ## About Me
 
-- Organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks and stay calm under pressure.
+Results-driven Senior Technology Engineer with over 8 years of experience in development and managerial roles at a leading global consulting firm. Specializing in object-oriented platform development, I excel in managing the entire software development lifecycle from initial design to final deployment. Renowned for my meticulous attention to detail and commitment to delivering robust, high-quality software solutions.
 
-- Proactive team player, strong team orientation & leadership qualities and hard working with capability of handling responsibilities independently. Result-driven, customer-focused, articulate and analytical software engineer who can think outside the box.
-
-- Ability to work under strict deadline requirements, handle multiple tasks, take initiative and become adaptable; willingness to accept responsibility and eager to learn the new dimension products.
-
-- Highly focused software developer with over 5 years of experience in development positions. Organized and methodical with an eye for detail resulting in solid coding and trustworthy software programs.
-
-- Accomplished software developer specialized in object-oriented approach to platform development. Extensive background in full life cycle of software development encompassing design, coding, testing and debugging.
-
-- Self-motivated and hardworking graduate seeking an opportunity to work in a challenging environment to prove my coding skills and utilize my knowledge of various databases for the growth of the organization.
+Proficient in analyzing and resolving complex technical issues, leveraging strong problem-solving skills to devise effective solutions. Possess exceptional verbal and written communication abilities, enabling clear and persuasive articulation of ideas and fostering productive discussions. Demonstrated expertise in driving successful project outcomes and aligning technical initiatives with business objectives.
 
 - 🔭 I’m currently working on any random project ideas
 
