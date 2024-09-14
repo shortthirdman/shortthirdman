@@ -14,7 +14,7 @@
 
 
 ## About Me
-
+<!--## 🚀 Skills 🔝-->
 Results-driven Senior Technology Engineer with over 8 years of experience in development and managerial roles at a leading global consulting firm. Specializing in object-oriented platform development, I excel in managing the entire software development lifecycle from initial design to final deployment. Renowned for my meticulous attention to detail and commitment to delivering robust, high-quality software solutions.
 
 Proficient in analyzing and resolving complex technical issues, leveraging strong problem-solving skills to devise effective solutions. Possess exceptional verbal and written communication abilities, enabling clear and persuasive articulation of ideas and fostering productive discussions. Demonstrated expertise in driving successful project outcomes and aligning technical initiatives with business objectives.
@@ -66,5 +66,5 @@ Proficient in analyzing and resolving complex technical issues, leveraging stron
   <img align="center" src="https://streak-stats.demolab.com?user=shortthirdman&theme=dark&hide_border=true&border_radius=4.6" />
 </a>&nbsp;
 
-
-<!--## 🚀 Skills 🔝-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
