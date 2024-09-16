@@ -69,15 +69,15 @@ Proficient in analyzing and resolving complex technical issues, leveraging stron
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2020 - To: 13 September 2024
+From: 17 October 2020 - To: 14 September 2024
 
-Total Time: 112 hrs 53 mins
+Total Time: 117 hrs 30 mins
 
-Other            57 hrs 46 mins  ████████▒░░░░░░░░░░░░░░░░   33.85 %
-Java             43 hrs 51 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
-TypeScript       20 hrs 59 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-HTML             12 hrs 37 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-JavaScript       12 hrs 36 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Other            58 hrs 1 min    ████████▒░░░░░░░░░░░░░░░░   33.05 %
+Java             46 hrs 25 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
+TypeScript       20 hrs 59 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+HTML             12 hrs 37 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+JavaScript       12 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 ```
 
 <!--END_SECTION:waka-->
