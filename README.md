@@ -66,6 +66,8 @@ Proficient in analyzing and resolving complex technical issues, leveraging stron
   <img align="center" src="https://streak-stats.demolab.com?user=shortthirdman&theme=dark&hide_border=true&border_radius=4.6" />
 </a>&nbsp;
 
+<br/>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -82,5 +84,6 @@ JavaScript       12 hrs 36 mins  █▓░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<br/>
+
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
