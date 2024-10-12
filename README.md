@@ -29,7 +29,9 @@ Proficient in analyzing and resolving complex technical issues, leveraging stron
 
 - 📫 How to reach me: Drop me a message to my <a href="mailto:swetank.mohanty@outlook.com">inbox</a> or via <a href="https://wa.me/919007636266&text=" target="_blank" rel="noopener noreferrer">WhatsApp</a> / <a href="https://t.me/shortthirdman" target="_blank" rel="noopener noreferrer">Telegram</a>
 
-- Check out my *[GitHub Trends Wrapped 2022](https://www.githubtrends.io/wrapped/shortthirdman)*.
+- Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortthirdman)*.
+
+- [Metrics Insights - shortthirdman](https://metrics.lecoq.io/insights/shortthirdman)
 
 <a href="https://api.whatsapp.com/send?phone=919007636266&text=Hello%20Swetank,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on WhatsApp" style="text-decoration: none;"> 
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
