@@ -8,9 +8,7 @@
 
 ![Top Lang by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shortthirdman&theme=github_dark)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)
-
-[![wakatime](https://wakatime.com/badge/user/b8bdcb81-61f7-46a2-bae9-de008e5ebcf5.svg)](https://wakatime.com/@b8bdcb81-61f7-46a2-bae9-de008e5ebcf5)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)  [![wakatime](https://wakatime.com/badge/user/b8bdcb81-61f7-46a2-bae9-de008e5ebcf5.svg)](https://wakatime.com/@b8bdcb81-61f7-46a2-bae9-de008e5ebcf5)  [![Metrics Insights - shortthirdman](https://img.shields.io/badge/Metrics_Insights-shortthirdman-E9568E)](https://metrics.lecoq.io/insights/shortthirdman)
 
 
 ## About Me
@@ -30,8 +28,6 @@ Proficient in analyzing and resolving complex technical issues, leveraging stron
 - 📫 How to reach me: Drop me a message to my <a href="mailto:swetank.mohanty@outlook.com">inbox</a> or via <a href="https://wa.me/919007636266&text=" target="_blank" rel="noopener noreferrer">WhatsApp</a> / <a href="https://t.me/shortthirdman" target="_blank" rel="noopener noreferrer">Telegram</a>
 
 - Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortthirdman)*.
-
-- [Metrics Insights - shortthirdman](https://metrics.lecoq.io/insights/shortthirdman)
 
 <a href="https://api.whatsapp.com/send?phone=919007636266&text=Hello%20Swetank,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on WhatsApp" style="text-decoration: none;"> 
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
