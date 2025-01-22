@@ -69,7 +69,7 @@ Proficient in analyzing and resolving complex technical issues, leveraging stron
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2020 - To: 19 January 2025
+From: 17 October 2020 - To: 20 January 2025
 
 Total Time: 132 hrs 29 mins
 
