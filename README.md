@@ -8,7 +8,7 @@
 
 ![Top Lang by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shortthirdman&theme=github_dark)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)  [![wakatime](https://wakatime.com/badge/user/b8bdcb81-61f7-46a2-bae9-de008e5ebcf5.svg)](https://wakatime.com/@b8bdcb81-61f7-46a2-bae9-de008e5ebcf5)  [![Metrics Insights - shortthirdman](https://img.shields.io/badge/Metrics_Insights-shortthirdman-E9568E)](https://metrics.lecoq.io/insights/shortthirdman)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/shortthirdman/shortthirdman)  [![wakatime](https://wakatime.com/badge/user/b8bdcb81-61f7-46a2-bae9-de008e5ebcf5.svg)](https://wakatime.com/@b8bdcb81-61f7-46a2-bae9-de008e5ebcf5)  [![Metrics Insights - shortthirdman](https://img.shields.io/badge/Metrics_Insights-shortthirdman-E9568E)](https://metrics.lecoq.io/insights/shortthirdman)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shortthirdman.medium.com/)
 
 ---
 
