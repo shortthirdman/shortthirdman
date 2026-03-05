@@ -41,18 +41,6 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 
 ---
 
-### [Now Playing on Spotify](https://open.spotify.com/)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gl5mpfy4lptjj52irc2vvyidue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-### [Now Playing on Apple Music](https://music.apple.com/us/new)
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001907.400e8a7391194a5ea1e598d080c70955.1316)](https://music-profile.rayriffy.com)
-
-<!-- [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001907.400e8a7391194a5ea1e598d080c70955.1316)](https://music-profile.rayriffy.com) -->
-
 ---
 
 ### :zap: Recent Activity
