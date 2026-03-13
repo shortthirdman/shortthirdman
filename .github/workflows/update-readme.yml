@@ -15,11 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update GitHub Activity Readme
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: jamesgeorge007/github-activity-readme@v0.4.6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: shortthirdman
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_LINES: 10
