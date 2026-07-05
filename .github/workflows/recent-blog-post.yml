@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
       - name: Pull in Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1.9.6
+        uses: gautamkrishnar/blog-post-workflow@1.9.6
         with:
           feed_names: "Medium"
           feed_list: "https://medium.com/feed/@shortthirdman,https://shortthirdman.medium.com/feed"
