@@ -38,4 +38,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.9.6
         with:
           feed_names: "Medium"
-          feed_list: "https://medium.com/feed/@shortthirdman,https://shortthirdman.medium.com/feed"
+          feed_list: "https://medium.com/feed/@shortthirdman"
