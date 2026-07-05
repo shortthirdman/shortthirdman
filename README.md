@@ -41,6 +41,11 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 
 ---
 
+# :mega: Medium: Recent Activity
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### :zap: Recent Activity
