@@ -44,6 +44,11 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 ### :mega: Medium: Recent Activity
 
 <!-- BLOG-POST-LIST:START -->
+- [The Illusion of Co-Hosting: Why Cricket’s Global Tournaments Need a Fairer Shake](https://shortthirdman.medium.com/the-illusion-of-co-hosting-why-crickets-global-tournaments-need-a-fairer-shake-9b7aa9a4230a?source=rss-2c1cefaa585b------2)
+- [The Illusion of Co-Hosting: Why Cricket’s Global Tournaments Need a Fairer Shake](https://shortthirdman.medium.com/the-illusion-of-co-hosting-why-crickets-global-tournaments-need-a-fairer-shake-9b7aa9a4230a?source=rss-2c1cefaa585b------2)
+- [How the ICC’s shift to a 12-team World Test Championship from 2027 makes the Intercontinental Cup…](https://shortthirdman.medium.com/how-the-iccs-shift-to-a-12-team-world-test-championship-from-2027-makes-the-intercontinental-cup-ec387a42029a?source=rss-2c1cefaa585b------2)
+- [How the ICC’s shift to a 12-team World Test Championship from 2027 makes the Intercontinental Cup…](https://shortthirdman.medium.com/how-the-iccs-shift-to-a-12-team-world-test-championship-from-2027-makes-the-intercontinental-cup-ec387a42029a?source=rss-2c1cefaa585b------2)
+- [Why the ICC’s decision to expand the World Test Championship to 12 teams could redefine Test…](https://shortthirdman.medium.com/why-the-iccs-decision-to-expand-the-world-test-championship-to-12-teams-could-redefine-test-2878b8649bb6?source=rss-2c1cefaa585b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
