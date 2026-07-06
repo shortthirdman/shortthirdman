@@ -39,6 +39,6 @@ jobs:
         with:
           feed_names: "Medium"
           feed_list: "https://medium.com/feed/@shortthirdman"
-          template: "*$date* [$title]($url)$newline"
-          date_format: "<code>dd mmm yyyy</code>"
+          template: "$newline - <b>$date</b> [$title]($url)"
+          date_format: "dd mmm yyyy"
           dummy_commit_message: "Auto-commit by blog-post-bot"
