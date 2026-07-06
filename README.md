@@ -43,12 +43,12 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 
 ### :mega: Medium: Recent Activity
 
-<!-- BLOG-POST-LIST:START -->*<c+00006e>06 May 2026</c+00006e>* [The Illusion of Co-Hosting: Why Cricket’s Global Tournaments Need a Fairer Shake](https://shortthirdman.medium.com/the-illusion-of-co-hosting-why-crickets-global-tournaments-need-a-fairer-shake-9b7aa9a4230a?source=rss-2c1cefaa585b------2)
-*<c+000025e>25 Jan 2026</c+000025e>* [How the ICC’s shift to a 12-team World Test Championship from 2027 makes the Intercontinental Cup…](https://shortthirdman.medium.com/how-the-iccs-shift-to-a-12-team-world-test-championship-from-2027-makes-the-intercontinental-cup-ec387a42029a?source=rss-2c1cefaa585b------2)
-*<c+000024e>24 Jan 2026</c+000024e>* [Why the ICC’s decision to expand the World Test Championship to 12 teams could redefine Test…](https://shortthirdman.medium.com/why-the-iccs-decision-to-expand-the-world-test-championship-to-12-teams-could-redefine-test-2878b8649bb6?source=rss-2c1cefaa585b------2)
-*<c+00004e>04 Nov 2025</c+00004e>* [The Tournament That Creates Test Nations: Why the ICC Intercontinental Cup’s Return Could Reshape…](https://shortthirdman.medium.com/the-tournament-that-creates-test-nations-why-the-icc-intercontinental-cups-return-could-reshape-428911d477a0?source=rss-2c1cefaa585b------2)
-*<c+000017e>17 Oct 2025</c+000017e>* [Is the Men’s T20 World Cup About to Go Big?](https://shortthirdman.medium.com/is-the-mens-t20-world-cup-about-to-go-big-504c98832415?source=rss-2c1cefaa585b------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+ - <b>06 May 2026</b> [The Illusion of Co-Hosting: Why Cricket’s Global Tournaments Need a Fairer Shake](https://shortthirdman.medium.com/the-illusion-of-co-hosting-why-crickets-global-tournaments-need-a-fairer-shake-9b7aa9a4230a?source=rss-2c1cefaa585b------2)
+ - <b>25 Jan 2026</b> [How the ICC’s shift to a 12-team World Test Championship from 2027 makes the Intercontinental Cup…](https://shortthirdman.medium.com/how-the-iccs-shift-to-a-12-team-world-test-championship-from-2027-makes-the-intercontinental-cup-ec387a42029a?source=rss-2c1cefaa585b------2)
+ - <b>24 Jan 2026</b> [Why the ICC’s decision to expand the World Test Championship to 12 teams could redefine Test…](https://shortthirdman.medium.com/why-the-iccs-decision-to-expand-the-world-test-championship-to-12-teams-could-redefine-test-2878b8649bb6?source=rss-2c1cefaa585b------2)
+ - <b>04 Nov 2025</b> [The Tournament That Creates Test Nations: Why the ICC Intercontinental Cup’s Return Could Reshape…](https://shortthirdman.medium.com/the-tournament-that-creates-test-nations-why-the-icc-intercontinental-cups-return-could-reshape-428911d477a0?source=rss-2c1cefaa585b------2)
+ - <b>17 Oct 2025</b> [Is the Men’s T20 World Cup About to Go Big?](https://shortthirdman.medium.com/is-the-mens-t20-world-cup-about-to-go-big-504c98832415?source=rss-2c1cefaa585b------2)<!-- BLOG-POST-LIST:END -->
 
 ---
 
