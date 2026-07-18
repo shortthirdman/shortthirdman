@@ -55,16 +55,16 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-2. ℹ️ Assigned PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-3. ℹ️ Labeled PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-4. ℹ️ Labeled PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-5. 💪 Opened PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-6. ℹ️ Assigned PR [#10](https://github.com/shortthirdman/DevOpsLab/pull/10) in [shortthirdman/DevOpsLab](https://github.com/shortthirdman/DevOpsLab)
-7. 💪 Opened PR [#10](https://github.com/shortthirdman/DevOpsLab/pull/10) in [shortthirdman/DevOpsLab](https://github.com/shortthirdman/DevOpsLab)
-8. ℹ️ Labeled PR [#10](https://github.com/shortthirdman/DevOpsLab/pull/10) in [shortthirdman/DevOpsLab](https://github.com/shortthirdman/DevOpsLab)
-9. 🎉 Merged PR [#10](https://github.com/shortthirdman/DevOpsLab/pull/10) in [shortthirdman/DevOpsLab](https://github.com/shortthirdman/DevOpsLab)
-10. 🔒 Closed issue [#8125](https://github.com/yt-dlp/yt-dlp/issues/8125) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+1. ℹ️ Labeled issue [#14881](https://github.com/simple-icons/simple-icons/issues/14881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ℹ️ Labeled issue [#14881](https://github.com/simple-icons/simple-icons/issues/14881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗ Opened issue [#14881](https://github.com/simple-icons/simple-icons/issues/14881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🎉 Merged PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+5. ℹ️ Assigned PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+6. ℹ️ Labeled PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+7. ℹ️ Labeled PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+8. 💪 Opened PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+9. ℹ️ Assigned PR [#10](https://github.com/shortthirdman/DevOpsLab/pull/10) in [shortthirdman/DevOpsLab](https://github.com/shortthirdman/DevOpsLab)
+10. 💪 Opened PR [#10](https://github.com/shortthirdman/DevOpsLab/pull/10) in [shortthirdman/DevOpsLab](https://github.com/shortthirdman/DevOpsLab)
 <!--END_SECTION:activity-->
 
 ---
