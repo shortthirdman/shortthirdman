@@ -45,3 +45,4 @@ jobs:
         with:
           GH_USERNAME: shortthirdman
           MAX_LINES: 10
+          FILTER_EVENTS: CommitCommentEvent,CreateEvent,DeleteEvent,DiscussionEvent,ForkEvent,IssueCommentEvent,IssuesEvent,MemberEvent,PublicEvent,PullRequestEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,PushEvent,ReleaseEvent,WatchEvent
