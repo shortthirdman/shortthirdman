@@ -55,16 +55,16 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276#issuecomment-5036185590) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-2. ℹ️ Labeled issue [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-3. ℹ️ Labeled issue [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-4. ❗ Opened issue [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-5. ℹ️ Labeled issue [#14881](https://github.com/simple-icons/simple-icons/issues/14881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-6. ℹ️ Labeled issue [#14881](https://github.com/simple-icons/simple-icons/issues/14881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-7. ❗ Opened issue [#14881](https://github.com/simple-icons/simple-icons/issues/14881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-8. 🎉 Merged PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-9. ℹ️ Assigned PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-10. ℹ️ Labeled PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+1. 🗣 Commented on [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276#issuecomment-5037579638) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+2. 🗣 Commented on [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276#issuecomment-5037069875) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+3. 🗣 Commented on [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276#issuecomment-5036185590) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+4. ℹ️ Labeled issue [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+5. ℹ️ Labeled issue [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+6. ❗ Opened issue [#17276](https://github.com/yt-dlp/yt-dlp/issues/17276) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+7. ℹ️ Labeled issue [#14881](https://github.com/simple-icons/simple-icons/issues/14881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+8. ℹ️ Labeled issue [#14881](https://github.com/simple-icons/simple-icons/issues/14881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+9. ❗ Opened issue [#14881](https://github.com/simple-icons/simple-icons/issues/14881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+10. 🎉 Merged PR [#7](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/7) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
 <!--END_SECTION:activity-->
 
 ---
