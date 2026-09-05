@@ -10,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=shortthirdman&label=visitors&color=e754a6&style=for-the-badge" alt="visitors" />
 </div>
 
+![GitHub Profile Views](https://hit.yhype.me/github/profile?account_id=5894985)
+
 [![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shortthirdman&theme=github_dark)](https://github.com/shortthirdman)
 
 [![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shortthirdman&theme=github_dark)](https://github.com/shortthirdman)
