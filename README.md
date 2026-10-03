@@ -67,16 +67,16 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shortthirdman/market-time-machine/pull/1) in [shortthirdman/market-time-machine](https://github.com/shortthirdman/market-time-machine)
-2. ℹ️ Labeled PR [#2](https://github.com/shortthirdman/cb-movies-recommender/pull/2) in [shortthirdman/cb-movies-recommender](https://github.com/shortthirdman/cb-movies-recommender)
-3. 🎉 Merged PR [#2](https://github.com/shortthirdman/cb-movies-recommender/pull/2) in [shortthirdman/cb-movies-recommender](https://github.com/shortthirdman/cb-movies-recommender)
-4. ℹ️ Labeled PR [#2](https://github.com/shortthirdman/cb-movies-recommender/pull/2) in [shortthirdman/cb-movies-recommender](https://github.com/shortthirdman/cb-movies-recommender)
-5. 💪 Opened PR [#2](https://github.com/shortthirdman/cb-movies-recommender/pull/2) in [shortthirdman/cb-movies-recommender](https://github.com/shortthirdman/cb-movies-recommender)
-6. ℹ️ Assigned PR [#2](https://github.com/shortthirdman/cb-movies-recommender/pull/2) in [shortthirdman/cb-movies-recommender](https://github.com/shortthirdman/cb-movies-recommender)
-7. 🎉 Merged PR [#1](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/1) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
-8. ℹ️ Labeled PR [#2](https://github.com/shortthirdman/HackerRank-Angular-Challenge/pull/2) in [shortthirdman/HackerRank-Angular-Challenge](https://github.com/shortthirdman/HackerRank-Angular-Challenge)
-9. ℹ️ Assigned PR [#2](https://github.com/shortthirdman/HackerRank-Angular-Challenge/pull/2) in [shortthirdman/HackerRank-Angular-Challenge](https://github.com/shortthirdman/HackerRank-Angular-Challenge)
-10. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/market-time-machine/pull/1) in [shortthirdman/market-time-machine](https://github.com/shortthirdman/market-time-machine)
+1. 🎉 Merged PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+2. ℹ️ Labeled PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+3. 💪 Opened PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+4. ℹ️ Assigned PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+5. 🎉 Merged PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+6. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+7. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+8. 💪 Opened PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+9. ℹ️ Assigned PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+10. 🎉 Merged PR [#1](https://github.com/shortthirdman/market-time-machine/pull/1) in [shortthirdman/market-time-machine](https://github.com/shortthirdman/market-time-machine)
 <!--END_SECTION:activity-->
 
 ---
