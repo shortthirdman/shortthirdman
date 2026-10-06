@@ -67,16 +67,16 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
-2. ℹ️ Labeled PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
-3. 💪 Opened PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
-4. ℹ️ Assigned PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
-5. 🎉 Merged PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
-6. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
-7. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
-8. 💪 Opened PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
-9. ℹ️ Assigned PR [#1](https://github.com/shortthirdman/python-benchmarking-scripts/pull/1) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
-10. 🎉 Merged PR [#1](https://github.com/shortthirdman/market-time-machine/pull/1) in [shortthirdman/market-time-machine](https://github.com/shortthirdman/market-time-machine)
+1. 🎉 Merged PR [#8](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/8) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+2. ℹ️ Labeled PR [#8](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/8) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+3. ℹ️ Labeled PR [#8](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/8) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+4. ℹ️ Labeled PR [#8](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/8) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+5. 💪 Opened PR [#8](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/8) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+6. ℹ️ Assigned PR [#8](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/8) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+7. 🎉 Merged PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+8. ℹ️ Labeled PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+9. 💪 Opened PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
+10. ℹ️ Assigned PR [#2](https://github.com/shortthirdman/python-benchmarking-scripts/pull/2) in [shortthirdman/python-benchmarking-scripts](https://github.com/shortthirdman/python-benchmarking-scripts)
 <!--END_SECTION:activity-->
 
 ---
