@@ -67,16 +67,16 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/11) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-2. 💪 Opened PR [#11](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/11) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-3. 🎉 Merged PR [#10](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/10) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-4. ℹ️ Labeled PR [#10](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/10) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-5. ℹ️ Labeled PR [#10](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/10) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-6. 💪 Opened PR [#10](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/10) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-7. ℹ️ Assigned PR [#10](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/10) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-8. 🎉 Merged PR [#9](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/9) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-9. ℹ️ Labeled PR [#9](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/9) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
-10. ℹ️ Labeled PR [#9](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/9) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+1. 🎉 Merged PR [#2](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/2) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
+2. 💪 Opened PR [#2](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/2) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
+3. ℹ️ Labeled PR [#2](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/2) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
+4. ℹ️ Labeled PR [#2](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/2) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
+5. ℹ️ Assigned PR [#2](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/2) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
+6. 🎉 Merged PR [#11](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/11) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+7. 💪 Opened PR [#11](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/11) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+8. 🎉 Merged PR [#10](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/10) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+9. ℹ️ Labeled PR [#10](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/10) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
+10. ℹ️ Labeled PR [#10](https://github.com/shortthirdman-org/PrimeKit-Challenges/pull/10) in [shortthirdman-org/PrimeKit-Challenges](https://github.com/shortthirdman-org/PrimeKit-Challenges)
 <!--END_SECTION:activity-->
 
 ---
