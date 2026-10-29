@@ -41,11 +41,12 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 ---
 
 <a href="https://github.com/shortthirdman/" alt="Top Langs" style="text-decoration:none;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shortthirdman&langs_count=10&theme=yeblu&layout=compact](https://github-stats-extended.vercel.app/api/top-langs?username=shortthirdman&layout=compact&langs_count=10&theme=dark_github)" />
 </a>&nbsp;
 
 <a href="https://github.com/shortthirdman/" alt="GitHub Profile Stats" style="text-decoration: none;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shortthirdman&show_icons=true&count_private=true&theme=yeblu&include_all_commits=true" />
+  <img align="center" src="
+https://github-stats-extended.vercel.app/api?username=shortthirdman&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>&nbsp;
 <a href="https://github.com/shortthirdman/" alt="GitHub Streak" style="text-decoration: none;">
   <img align="center" src="https://streak-stats.demolab.com?user=shortthirdman&theme=dark&hide_border=true&border_radius=4.6" />
