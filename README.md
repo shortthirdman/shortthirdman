@@ -67,16 +67,16 @@ Check out my *[GitHub Trends Wrapped](https://www.githubtrends.io/wrapped/shortt
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
-2. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
-3. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
-4. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
-5. 💪 Opened PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
-6. ℹ️ Assigned PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
-7. 🎉 Merged PR [#2](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/2) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
-8. 💪 Opened PR [#2](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/2) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
-9. ℹ️ Labeled PR [#2](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/2) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
-10. ℹ️ Labeled PR [#2](https://github.com/shortthirdman-org/Google-Colab-Notebooks/pull/2) in [shortthirdman-org/Google-Colab-Notebooks](https://github.com/shortthirdman-org/Google-Colab-Notebooks)
+1. 🎉 Merged PR [#1](https://github.com/shortthirdman/diagnosis-first-editor/pull/1) in [shortthirdman/diagnosis-first-editor](https://github.com/shortthirdman/diagnosis-first-editor)
+2. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/diagnosis-first-editor/pull/1) in [shortthirdman/diagnosis-first-editor](https://github.com/shortthirdman/diagnosis-first-editor)
+3. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/diagnosis-first-editor/pull/1) in [shortthirdman/diagnosis-first-editor](https://github.com/shortthirdman/diagnosis-first-editor)
+4. ℹ️ Assigned PR [#1](https://github.com/shortthirdman/diagnosis-first-editor/pull/1) in [shortthirdman/diagnosis-first-editor](https://github.com/shortthirdman/diagnosis-first-editor)
+5. 💪 Opened PR [#1](https://github.com/shortthirdman/diagnosis-first-editor/pull/1) in [shortthirdman/diagnosis-first-editor](https://github.com/shortthirdman/diagnosis-first-editor)
+6. 🎉 Merged PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
+7. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
+8. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
+9. ℹ️ Labeled PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
+10. 💪 Opened PR [#1](https://github.com/shortthirdman/ecommerce-customer-segmentation/pull/1) in [shortthirdman/ecommerce-customer-segmentation](https://github.com/shortthirdman/ecommerce-customer-segmentation)
 <!--END_SECTION:activity-->
 
 ---
